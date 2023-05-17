@@ -1,4 +1,4 @@
-# Project-work-Data-Science-from-Yandex
+# Project work Data Science from-Yandex
 ### Исследование надёжности заёмщиков банка
 
 ### Цель проета: исследовать данные и ответить на следующие вопросы:
