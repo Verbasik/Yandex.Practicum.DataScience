@@ -1,2 +1,5 @@
-# Data_analyst-yandex_praktikum
-![logo_DS+](https://github.com/Verbasik/Data_science_plus-yandex_praktikum/assets/109856541/8c78d39f-a289-4a1d-a5b0-a0e54c8a2047)
+# Проекты Data Science. Яндекс.Практикум (Школа Анализа Данных)
+![logo_DS+](https://github.com/Verbasik/Data_science_plus-yandex_praktikum/assets/109856541/b80c6642-d6f8-4398-9e92-cca355f4cb98)
+
+В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки [Специалист по Data Science](https://practicum.yandex.ru/data-scientist-plus/) в Яндекс.Практикум
+
