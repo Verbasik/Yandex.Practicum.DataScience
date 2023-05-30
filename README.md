@@ -1,4 +1,5 @@
-# Проекты Data Science. Яндекс.Практикум (Школа Анализа Данных)
+# Проекты Data Science. Яндекс.Практикум 
+# (Школа Анализа Данных)
 ## Специалист по Data Science (2023 — 2024)
 ![logo_DS+](https://github.com/Verbasik/Data_science_plus-yandex_praktikum/assets/109856541/b80c6642-d6f8-4398-9e92-cca355f4cb98)
 
