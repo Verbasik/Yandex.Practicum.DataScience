@@ -20,4 +20,4 @@
 - **`NumPy`**
 - **`Matplotlib`**
 - **`Seaborn`**
-- - **`Scipy`**
+- **`Scipy`**
