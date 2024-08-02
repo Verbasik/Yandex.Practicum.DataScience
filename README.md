@@ -1,3 +1,4 @@
+![Сertificate]([https://github.com/Verbasik/ML_projects/blob/main/MouseGPT/png/MouseGPT.png](https://github.com/Verbasik/Yandex.Practicum.DataScience/blob/a88158a8a52b1d71198bb91f5bddf1df046086da/Documents/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%92%D0%B5%D1%80%D0%B1%D0%B5%D1%86%D0%BA%D0%B8%D0%B8%CC%86_2024-4624-019.pdf))
 # Проекты Data Science. Яндекс.Практикум (Школа Анализа Данных)
 ## Специалист по Data Science (2023 — 2024)
 ![logo_DS+](https://github.com/Verbasik/Data_science_plus-yandex_praktikum/assets/109856541/b80c6642-d6f8-4398-9e92-cca355f4cb98)
