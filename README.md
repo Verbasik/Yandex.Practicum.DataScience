@@ -4,7 +4,7 @@
 
 В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки [Специалист по Data Science](https://practicum.yandex.ru/data-scientist-plus/) в Яндекс.Практикум
 
-[Certificate](https://github.com/Verbasik/Yandex.Practicum.DataScience/blob/c283820645a2b40eafc6f922c08e3aa81b8eddaa/Documents/jpeg.jpeg)
+![Certificate](https://github.com/Verbasik/Yandex.Practicum.DataScience/blob/c283820645a2b40eafc6f922c08e3aa81b8eddaa/Documents/jpeg.jpeg)
 
 | Проект | Описание | Библиотеки &nbsp; &nbsp; | Навыки &nbsp; &nbsp; |
 |---|---|---|---|
