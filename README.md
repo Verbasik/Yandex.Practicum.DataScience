@@ -1,4 +1,4 @@
-[![Certificate](https://github.com/Verbasik/Yandex.Practicum.DataScience/tree/a88158a8a52b1d71198bb91f5bddf1df046086da/Documents)
+[Certificate](https://github.com/Verbasik/Yandex.Practicum.DataScience/tree/a88158a8a52b1d71198bb91f5bddf1df046086da/Documents)
 
 # Проекты Data Science. Яндекс.Практикум (Школа Анализа Данных)
 ## Специалист по Data Science (2023 — 2024)
